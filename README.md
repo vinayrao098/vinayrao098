@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @vinayrao098
-- 👀 I’m interested in Machine Learning
-- 🌱 I’m currently working on ML projects
+- 👀 I’m interested in Machine Learning and Agentic AI
+- 🌱 I’m currently working on Java projects
 - 💞️ I’m looking to collaborate on ML projects
 - 📫 How to reach me ph. +917056706364 Mail vinayrao098@gmail.com
 
